@@ -1,5 +1,3 @@
-R E A D  M E !
-
 📌 Notes
 
 - It's important to edit `ProcessHzMap.cfg` before use. Default value is set to 60 Hz.

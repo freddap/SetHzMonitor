@@ -24,6 +24,8 @@ No installation is required.
 
 For detailed information on how the software works and any necessary configuration, please see the [INSTRUCTIONS](./INSTRUCTIONS.md).
 
+Please make sure the [.NET runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0/runtime) is installed on your system in order to use this application.
+
 ### Related Repository
 
 This application depends on a companion module located here:  

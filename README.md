@@ -16,6 +16,13 @@ No installation is required.
 
 For detailed information on how the software works and any necessary configuration, please see the [Instructions](./INSTRUCTIONS.md).
 
+### Related Repository
+
+This application depends on a companion module located here:  
+➡️ [SetHzTool](https://github.com/freddap/SetHzTool)
+
+Please make sure to clone or download that repository if you're building the application from scratch.
+
 ## 📄 License
 
 This project is free for personal and non-commercial use.  

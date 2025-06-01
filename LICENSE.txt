@@ -1,0 +1,6 @@
+# License
+This project is released under a custom license. Free for personal and non-commercial use only.  
+See [LICENSE](./LICENSE) for details.
+
+# Support the Project 💖
+If you enjoy using this project, consider donating via PayPal: https://www.paypal.com/donate?business=fredrik8801@gmail.com

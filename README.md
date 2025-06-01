@@ -4,7 +4,7 @@
 
 App that automatically switches refresh rate based on running processes.
 
-[![Demo](https://i9.ytimg.com/vi_webp/Yv9EtkBxHNE/mq1.webp?sqp=COC58cEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFMgWShlMA8=&rs=AOn4CLAZ2TWmyWavKs98snfz9MEpgNcP2w)](https://youtu.be/Yv9EtkBxHNE)
+[![Demo](https://i.ytimg.com/an_webp/Yv9EtkBxHNE/mqdefault_6s.webp?du=3000&sqp=CMCy8sEG&rs=AOn4CLDRXxwqAQaCMTbSwZW7lykHmuPcvw)](https://youtu.be/Yv9EtkBxHNE)
 
 Matching your monitor’s refresh rate (Hz) with your game’s frame rate (FPS) can lead to a smoother and more visually consistent gaming experience. For example, if your game runs at 60 FPS, setting your monitor to 60 Hz is usually the best choice. Here’s why:
 

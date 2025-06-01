@@ -14,7 +14,7 @@ Download the setup file and follow the installation wizard to install the applic
 Download the portable version, extract the contents to any folder, and run the application directly.  
 No installation is required.
 
-For detailed information on how the software works and any necessary configuration, please see the [Instructions](./INSTRUCTIONS.md).
+For detailed information on how the software works and any necessary configuration, please see the [INSTRUCTIONS](./INSTRUCTIONS.md).
 
 ### Related Repository
 

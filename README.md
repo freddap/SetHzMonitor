@@ -22,8 +22,8 @@ Download the setup file and follow the installation wizard to install the applic
 Download the portable version, extract the contents to any folder, and run the application directly.  
 No installation is required.
 
-For detailed information on how the software works and any necessary configuration, please see the [INSTRUCTIONS](./INSTRUCTIONS.md).
 
+For detailed information on how the software works and any necessary configuration, please see the [INSTRUCTIONS](./INSTRUCTIONS.md).
 Please make sure the [.NET runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0/runtime) is installed on your system in order to use this application.
 
 ### Related Repository

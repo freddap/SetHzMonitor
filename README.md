@@ -23,7 +23,7 @@ Download the portable version, extract the contents to any folder, and run the a
 No installation is required.
 
 
-For detailed information on how the software works and any necessary configuration, please see the [INSTRUCTIONS](./INSTRUCTIONS.md).
+For detailed information on how the software works and any necessary configuration, please see the [Instructions](./INSTRUCTIONS.md).
 
 ### 3. Requirements & Optimization Tools
 
@@ -40,10 +40,14 @@ This application depends on a companion module located here:
 
 Please make sure to clone or download that repository if you're building the application from scratch.
 
+## 📌 Troubleshooting
+
+If you're experiencing issues with the application, see the [Troubleshooting Guide](TROUBLESHOOTING.md) for common problems and solutions.
+
 ## 📄 License
 
 This project is free for personal and non-commercial use.  
-See [LICENSE](./LICENSE.md) for full terms.
+See [License](./LICENSE.md) for full terms.
 
 ## ☕ Support the Project
 

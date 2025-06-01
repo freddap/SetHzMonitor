@@ -4,6 +4,11 @@
 
 Automatically switches refresh rate based on running processes.
 
+[![Demo](https://i9.ytimg.com/vi_webp/Yv9EtkBxHNE/mq1.webp?sqp=COC58cEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFMgWShlMA8=&rs=AOn4CLAZ2TWmyWavKs98snfz9MEpgNcP2w)](https://youtu.be/Yv9EtkBxHNE)
+
+
+
+
 ## 📦 Installation
 
 ### 1. Installer Version

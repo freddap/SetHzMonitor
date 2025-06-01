@@ -26,7 +26,7 @@ Please make sure to clone or download that repository if you're building the app
 ## 📄 License
 
 This project is free for personal and non-commercial use.  
-See [LICENSE](./LICENSE) for full terms.
+See [LICENSE](./LICENSE.md) for full terms.
 
 ## ☕ Support the Project
 

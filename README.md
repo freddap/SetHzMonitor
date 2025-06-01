@@ -24,6 +24,13 @@ No installation is required.
 
 
 For detailed information on how the software works and any necessary configuration, please see the [INSTRUCTIONS](./INSTRUCTIONS.md).
+
+### 3. Requirements & Optimization Tools
+
+As a complement to this app, I recommend using [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download) (RivaTuner Statistics Server) to limit your FPS. RTSS allows you to cap the frame rate to match your monitor’s refresh rate, which helps reduce screen tearing, lower system load, and maintain stable frame pacing—especially in games that don’t offer native FPS limiters.
+
+Using both tools together can significantly improve your gaming experience by syncing FPS and Hz for optimal smoothness and responsiveness.
+
 Please make sure the [.NET runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0/runtime) is installed on your system in order to use this application.
 
 ### Related Repository

@@ -2,7 +2,7 @@
 
 ## 🚀 Features
 
-App that automatically switches refresh rate based on running processes.
+Monitor refresh rate manager
 
 [![Demo on YouTube](assets/IMG_0211.jpeg)](https://youtu.be/Yv9EtkBxHNE)
 

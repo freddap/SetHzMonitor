@@ -73,9 +73,10 @@ Only one letter (A–Z) is supported as the key.
 🚀 How to Use
 
 1. Edit `ProcessHzMap.cfg` with your apps and refresh rates.
-2. Launch `SetHzMonitor.exe`.
-3. It automatically adjusts refresh rates based on your active applications.
-4. Use your configured hotkey (e.g., `Ctrl+Alt+Q`) to exit the app safely.
+2. Ensure that .NET Framework 4.8 or later is installed on your system. If it’s not installed, please download and install it from Microsoft's official site.
+3. Launch `SetHzMonitor.exe`.
+4. It automatically adjusts refresh rates based on your active applications.
+5. Use your configured hotkey (e.g., `Ctrl+Alt+Q`) to exit the app safely.
 
 -----------------------------------
 

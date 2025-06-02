@@ -31,7 +31,7 @@ As a complement to this app, I recommend using [RTSS](https://www.guru3d.com/dow
 
 Using both tools together can significantly improve your gaming experience by syncing FPS and Hz for optimal smoothness and responsiveness.
 
-Please make sure the [.NET runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0/runtime) is installed on your system in order to use this application.
+Please make sure the [.NET Runtime 9](https://dotnet.microsoft.com/en-us/download/dotnet/9.0/runtime) is installed on your system in order to use this application.
 
 ### Related Repository
 

@@ -1,7 +1,5 @@
 # SetHzMonitor 2.0 is here!
 
-Monitor refresh rate manager
-
 [![Demo on YouTube](assets/thumbnail.jpg)](https://www.youtube.com/watch?v=NbPZInSTmLQ)
 
 # Overview

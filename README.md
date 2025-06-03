@@ -2,7 +2,7 @@
 
 Monitor refresh rate manager
 
-[![Demo on YouTube](assets/IMG_0211.jpeg)](https://www.youtube.com/watch?v=NbPZInSTmLQ)
+[![Demo on YouTube](assets/thumbnail.jpg)](https://www.youtube.com/watch?v=NbPZInSTmLQ)
 
 # Overview
 

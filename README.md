@@ -1,10 +1,16 @@
 # SetHzMonitor 2.0 is here!
 
-[![Demo on YouTube](assets/thumbnail.jpg)](https://www.youtube.com/watch?v=NbPZInSTmLQ)
+<br><br>
+<p align="center">
+  <img src="assets/SetHzMonitor-2.0.png"
+       style="width:30%;" />
+</p>
 
 ## Overview
 
 SetHzMonitor 2.0 is a lightweight Windows utility that automatically sets your monitor's refresh rate based on running processes, according to mappings defined in a configuration file.
+
+[![Demo on YouTube](assets/thumbnail.jpg)](https://www.youtube.com/watch?v=NbPZInSTmLQ)
 
 ## Features
 

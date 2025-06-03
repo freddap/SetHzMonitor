@@ -2,11 +2,11 @@
 
 [![Demo on YouTube](assets/thumbnail.jpg)](https://www.youtube.com/watch?v=NbPZInSTmLQ)
 
-# Overview
+## Overview
 
 SetHzMonitor 2.0 is a lightweight Windows utility that automatically sets your monitor's refresh rate based on running processes, according to mappings defined in a configuration file.
 
-# Features
+## Features
 
 ### Self-contained executable
 The app is published as a self-contained binary, so it does not require any pre-installed .NET runtime on the target machine. This makes deployment and usage simpler and more reliable.

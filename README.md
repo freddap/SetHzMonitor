@@ -1,4 +1,4 @@
-# SetHzMonitor 2.0
+# SetHzMonitor 2.0 is here!
 
 Monitor refresh rate manager
 

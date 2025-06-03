@@ -1,48 +1,37 @@
-# SetHzMonitor
-
-## 🚀 Features
+# SetHzMonitor 2.0
 
 Monitor refresh rate manager
 
-[![Demo on YouTube](assets/IMG_0211.jpeg)](https://youtu.be/Yv9EtkBxHNE)
+[![Demo on YouTube](assets/IMG_0211.jpeg)](https://www.youtube.com/watch?v=NbPZInSTmLQ)
 
-Matching your monitor’s refresh rate (Hz) with your game’s frame rate (FPS) can lead to a smoother and more visually consistent gaming experience. For example, if your game runs at 60 FPS, setting your monitor to 60 Hz is usually the best choice. Here’s why:
+# Overview
 
-When your monitor refreshes at the same rate as the game delivers frames, each frame is displayed cleanly without overlap. This reduces screen tearing, input lag, and visual stutter. On the other hand, if your FPS and Hz are mismatched (e.g., 60 FPS on a 144 Hz monitor), you may experience inconsistent frame delivery, where some frames are shown longer than others, causing a choppy or jittery appearance.
+SetHzMonitor is a lightweight Windows utility that automatically sets your monitor's refresh rate based on running processes, according to mappings defined in a configuration file.
+Features
 
-In short, syncing your FPS and Hz helps the game feel smoother and more responsive, especially in scenarios where frame rate is locked or capped. It's a simple tweak that can significantly improve visual quality and gameplay comfort.
+## Self-contained executable
+The app is published as a self-contained binary, so it does not require any pre-installed .NET runtime on the target machine. This makes deployment and usage simpler and more reliable.
 
-## 📦 Installation
+## System tray icon with context menu
+Runs silently in the system tray with an icon that updates dynamically to show the current refresh rate (Hz). The tray menu includes options to:
 
-### 1. Installer Version
-Download the setup file and follow the installation wizard to install the application on your system.
+- Open the configuration folder
 
+- Restart the app to reload the config without closing
 
-### 2. Portable Version
-Download the portable version, extract the contents to any folder, and run the application directly.  
-No installation is required.
+- Exit the app gracefully
 
+## Performance
 
-For detailed information on how the software works and any necessary configuration, please see the [Instructions](./INSTRUCTIONS.md).
+- Runs efficiently with minimal CPU and memory usage (significantly optimized compared to previous versions requiring .NET runtime).
 
-### 3. Requirements & Optimization Tools
+- The background monitoring loop runs asynchronously to keep the UI responsive.
 
-As a complement to this app, I recommend using [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download) (RivaTuner Statistics Server) to limit your FPS. RTSS allows you to cap the frame rate to match your monitor’s refresh rate, which helps reduce screen tearing, lower system load, and maintain stable frame pacing—especially in games that don’t offer native FPS limiters.
+## Configurable refresh rates
 
-Using both tools together can significantly improve your gaming experience by syncing FPS and Hz for optimal smoothness and responsiveness.
+- Define process-to-refresh rate mappings in ProcessHzMap.cfg.
 
-Please make sure the [.NET Runtime 9.0 or later](https://dotnet.microsoft.com/en-us/download/dotnet/9.0/runtime) is installed on your system in order to use this application.
-
-### Related Repository
-
-This application depends on a companion module located here:  
-➡️ [SetHzTool](https://github.com/freddap/SetHzTool)
-
-Please make sure to clone or download that repository if you're building the application from scratch.
-
-## 📌 Troubleshooting
-
-If you're experiencing issues with the application, see the [Troubleshooting Guide](TROUBLESHOOTING.md) for common problems and solutions.
+- A default entry is required to specify the fallback refresh rate when no monitored processes are running.
 
 ## 📄 License
 
@@ -51,7 +40,7 @@ See [License](./LICENSE.md) for full terms.
 
 ## ☕ Support the Project
 
-Donations are welcome via [PayPal](https://www.paypal.com/donate?business=fredrik8801@gmail.com)
+Buy me a coffee via [PayPal](https://www.paypal.com/donate?business=fredrik8801@gmail.com)
 
 ## 📬 Contact
 

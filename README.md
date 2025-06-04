@@ -1,4 +1,4 @@
-# SetHzMonitor 2.0 is here!
+# SetHzMonitor 2.1 is here!
 
 <br><br>
 <p align="center">
@@ -8,9 +8,9 @@
 
 ## Overview
 
-SetHzMonitor 2.0 is a lightweight Windows utility that automatically sets your monitor's refresh rate based on running processes, according to mappings defined in a configuration file.
+SetHzMonitor 2.1 is a lightweight Windows utility that automatically sets your monitor's refresh rate based on running processes, according to mappings defined in a configuration file.
 
-[![Demo on YouTube](assets/thumbnail.jpg)](https://www.youtube.com/watch?v=NbPZInSTmLQ)
+<!-- [![Demo on YouTube](assets/thumbnail.jpg)](https://www.youtube.com/watch?v=NbPZInSTmLQ) -->
 
 ## Features
 
@@ -18,11 +18,11 @@ SetHzMonitor 2.0 is a lightweight Windows utility that automatically sets your m
 The app is published as a self-contained binary, so it does not require any pre-installed .NET runtime on the target machine. This makes deployment and usage simpler and more reliable.
 
 ### System tray icon with context menu
-Runs silently in the system tray with an icon that updates dynamically to show the current refresh rate (Hz). The tray menu includes options to:
 
-- Open the configuration folder
-- Restart the app to reload the config without closing
-- Exit the app gracefully
+Runs silently in the system tray. The tray menu includes options to:
+- Edit config
+- Restart (if you made changes to 'ProcessHzMap.cfg')
+- Exit the app
 
 ### Performance
 
@@ -31,7 +31,7 @@ Runs silently in the system tray with an icon that updates dynamically to show t
 
 ### Configurable refresh rates
 
-- Define process-to-refresh rate mappings in ProcessHzMap.cfg.
+- Define process-to-refresh rate mappings in 'ProcessHzMap.cfg'.
 - A default entry is required to specify the fallback refresh rate when no monitored processes are running.
 
 ## License

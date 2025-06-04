@@ -18,7 +18,7 @@ class Program
             topmostForm.TopMost = true;
             topmostForm.StartPosition = FormStartPosition.Manual;
             topmostForm.Size = new System.Drawing.Size(1, 1);
-            topmostForm.Location = new System.Drawing.Point(-1000, -1000); // gömt utanför skärmen
+            topmostForm.Location = new System.Drawing.Point(-1000, -1000); // HIDE
             topmostForm.Show();
             topmostForm.Focus();
             return MessageBox.Show(topmostForm, text, caption, buttons, icon);

@@ -1,6 +1,6 @@
 # SetHzMonitor 2.1 is here!
 
-<br><br>
+<br>
 <p align="center">
   <img src="assets/SetHzMonitor-2.0.png"
        style="width:30%;" />

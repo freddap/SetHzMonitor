@@ -5,8 +5,8 @@
 2. Launch 'SetHzMonitor.exe', it will run silently in the system tray.
 
 3. In the system tray menu, you can choose to:
-- Open config folder
-- Restart if you made changes to ProcessHzMap.cfg
+- Edit config
+- Restart (if you made changes to 'ProcessHzMap.cfg')
 - Exit the app
 
-4. Hovering the icon will show the currently active refresh rate (Hz).
+4. Whenever the refresh rate updates, a notification displays the current Hz.

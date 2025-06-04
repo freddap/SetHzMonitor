@@ -23,7 +23,6 @@ Runs silently in the system tray, with a tray menu offering options to:
 - Edit config
 - Restart (if you made changes to 'ProcessHzMap.cfg')
 - Exit the app
-- Whenever the refresh rate updates, a notification displays the current Hz
 
 ### Performance
 

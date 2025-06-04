@@ -32,7 +32,7 @@ Runs silently in the system tray, with a tray menu offering options to:
 ### Configurable refresh rates
 
 - Define process-to-refresh rate mappings in 'ProcessHzMap.cfg'.
-- A default entry is required to specify the fallback refresh rate when no monitored processes are running.
+- Whenever the refresh rate updates, a notification displays the current Hz.
 
 ## License
 

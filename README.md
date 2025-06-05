@@ -49,6 +49,10 @@ For example:
 - Avoid VRR-induced issues by aligning Hz and FPS.
 - If a game doesn't support built-in FPS limiting, use [RTSS (RivaTuner Statistics Server)](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) to cap FPS precisely.
 
+## Getting Started
+
+For detailed instructions on how to set up and use SetHzMonitor, please see the [Getting Started guide](GettingStarted.md).
+
 ## License
 
 This project is free for personal and non-commercial use.  

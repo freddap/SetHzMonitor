@@ -52,6 +52,32 @@ Right-click the system tray icon to access the following options:
 4. **Refresh Rate Notifications**  
 Whenever the refresh rate changes, a clean on-screen notification (via NeonPopup) will display the current Hz.
 
+## Optional: Custom Refresh Rates
+
+If your display supports it, you can define additional refresh rates beyond the default ones listed by Windows. This can be useful if you want more granular control — for example, adding 72 Hz for smoother video playback or 100 Hz for PAL content.
+
+### NVIDIA Users
+
+You can create custom resolutions using the **NVIDIA Control Panel**:
+
+1. Open **NVIDIA Control Panel** (Admin) → *Change resolution*.
+2. Click **Customize** → **Create Custom Resolution**. (Unavailable in DSC mode)
+3. Set your preferred refresh rate (e.g., 72, 75, 100 Hz).
+4. Save and apply the new mode.
+
+Once added, you can reference that refresh rate in `ProcessHzMap.cfg`.
+
+### AMD Users
+
+If you use an AMD GPU, custom resolutions can be added through **AMD Software: Adrenalin Edition**:
+
+1. Open **AMD Software** → Go to the **Display** tab.
+2. Scroll to the **Custom Resolutions** section.
+3. Create a new resolution with your desired refresh rate.
+4. Save it and select it from Windows or use it via `SetHzMonitor`.
+
+**Note:** Not all monitors support all refresh rates — test carefully to avoid display issues!
+
 ---
 
 Enjoy smoother gaming and video playback with dynamic refresh rate control!

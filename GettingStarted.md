@@ -25,9 +25,19 @@ Choose the version that best fits your needs.
    Open `ProcessHzMap.cfg` and define which refresh rate (Hz) should be used for specific applications.  
    Example:
 <pre>
-default=240
-game=120
-video_player=50
+# 24p / 30p / 60p content (e.g. YouTube, Netflix, most films)
+mpc-hc=120
+vlc=120
+chrome=120
+firefox=120
+
+# 25p / 50p content (e.g. European TV, PAL content)
+eu_player=100
+
+# Games: match fps to Hz
+# 60 fps = 60 Hz, 120 fps = 120 Hz
+fallout4=60
+DOOMEternalx64vk=120
 </pre>
 
 2. **Launch the App**  

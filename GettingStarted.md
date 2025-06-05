@@ -78,6 +78,8 @@ If you use an AMD GPU, custom resolutions can be added through **AMD Software: A
 
 **Note:** Not all monitors support all refresh rates — test carefully to avoid display issues!
 
+Custom resolutions might be restricted if **DSC** (Display Stream Compression) mode is enabled. DSC compresses the video stream to allow higher bandwidth, but it can restrict manual resolution adjustments.
+
 ---
 
 Enjoy smoother gaming and video playback with dynamic refresh rate control!
